@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PauProject</string>
+    <string name="ubicacion_label">Ubicación</string>
+    <string name="no_internet"> Sin conexión a Internet</string>
+</resources>
